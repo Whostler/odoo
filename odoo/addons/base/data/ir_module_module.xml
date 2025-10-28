@@ -20,7 +20,7 @@
             <field name="name">timesheet_grid</field>
             <field name="shortdesc">Timesheets</field>
             <field name="sequence">65</field>
-            <field name="category_id" ref="base.module_category_services_timesheets"/>
+            <field name="category_id" ref="base.module_category_services_timesheets "/>
             <field name="application" eval="True"/>
             <field name="summary">Track time &amp; costs</field>
             <field name="license">OEEL-1</field>
